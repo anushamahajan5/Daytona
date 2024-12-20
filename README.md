@@ -11,6 +11,8 @@ Currently, two official plugins are available:
 # Calendar App with Daytona
 
 This is a sample project that demonstrates the integration of Daytona for managing a seamless development environment.
+## Overview
+The Calendar App is a React-based single-page application that allows users to view and interact with a calendar, add and manage events, and customize event details. The app provides functionalities such as month navigation, event scheduling with time validation, event categorization (e.g., Work, Personal, Others), and real-time updates to the event list.
 
 ## How to Run
 
